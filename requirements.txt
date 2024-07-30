@@ -1,0 +1,13 @@
+matplotlib
+nltk
+pandas
+praw
+prawcore
+requests
+seaborn
+python-dotenv
+scikit-learn
+numpy
+networkx
+python-louvain
+langchain_community
