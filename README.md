@@ -4,7 +4,7 @@
 
 **Hip Hop Analytica** is an analytical project designed to uncover and analyze the underlying structures of online interactions and discussions surrounding hip-hop topics on social media networks. This project uniquely combines community detection and sentiment analysis (specifically polarity detection) to provide comprehensive insights into the dynamics of hip-hop communities online.
 
-### I created this project in collaboration with my colleagues [Kristian Perriù](https://github.com/kristianperriu), [Chibuzor J. Amadi](https://github.com/chibuzoramadi), as part of the final Web and Social Networks Search and Analysis exam assignment.
+#### I created this project in collaboration with my colleagues [Kristian Perriù](https://github.com/kristianperriu), [Chibuzor J. Amadi](https://github.com/chibuzoramadi), as part of the final Web and Social Networks Search and Analysis exam assignment.
 
 ## Features
 
