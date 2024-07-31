@@ -13,7 +13,7 @@
   - Implements data pre-processing steps, including lowercasing, stopword removal, and tokenization, to prepare the raw text for analysis.
 
 - **Sentiment Analysis:**
-  - Employs an advanced language model (LLM) to conduct sentiment analysis on user comments, generating nuanced opinions on the ongoing feud.
+  - Employs the advanced language model Llama 3 to conduct sentiment analysis on user comments, generating nuanced opinions on the ongoing feud.
   - Focuses on polarity detection to categorize sentiments as positive, negative, or neutral.
 
 - **Community Detection:**
